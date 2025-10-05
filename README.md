@@ -1,13 +1,10 @@
-# Programming Assignment 1: HTTP Server in Python
+# Threaded HTTP Server in Python
 
-**Name:** Ankush Chandrashekar
-
-**SJSU ID:** 019106204
 
 ---
 
 ## Description
-This assignment implements a ** multi-threaded HTTP server** using Python's built-in libraries.
+This project implements a ** multi-threaded HTTP server** using Python's built-in libraries.
 
 The server:
 - Listens on a user-specified port  
